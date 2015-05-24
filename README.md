@@ -18,6 +18,7 @@ This data must be downloaded, unzipped and the current working directory needs t
 There is a single R file that performs the analysis **run_analysis.R**
 
 run_analysis reads in the data contained in 8 files in the **UCI HAR Dataset** directory
+
 1. test/subject_test.txt, test/X_test.txt, test/y_test.txt
 2. train/subject_train.txt, train/X_train.txt, train/y_train.txt 
 3. features.txt
